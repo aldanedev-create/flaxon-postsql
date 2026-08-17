@@ -6,13 +6,8 @@ owns an async connection pool and exposes it as `app.state.postsql`.
 ## Install
 
 ```bash
-git clone https://github.com/aldanedev-create/flaxon-postsql.git
-cd flaxon-postsql
-pip install .
+pip install flaxon-postsql
 ```
-
-PyPI publishing is not configured yet; install from the repository until a
-release is published.
 
 ## Use
 
